@@ -1,0 +1,6 @@
+br\com\brainweb\interview\core\features\powerstats\PowerStatsControllerTest.class
+br\com\brainweb\interview\core\features\hero\ObjJson.class
+br\com\brainweb\interview\core\features\hero\HeroControllerTest.class
+br\com\brainweb\interview\core\features\hero\HeroComparedIT.class
+br\com\brainweb\interview\core\features\hero\HeroServiceIT.class
+br\com\brainweb\interview\core\features\hero\StrJson.class

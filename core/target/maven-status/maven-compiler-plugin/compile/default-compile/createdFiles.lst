@@ -1,0 +1,11 @@
+br\com\brainweb\interview\core\util\HeroCompared.class
+br\com\brainweb\interview\core\features\hero\HeroController.class
+br\com\brainweb\interview\core\features\hero\HeroRepository.class
+br\com\brainweb\interview\core\features\hero\Race.class
+br\com\brainweb\interview\core\Application.class
+br\com\brainweb\interview\core\configuration\WebConfiguration.class
+br\com\brainweb\interview\core\features\powerstats\PowerStatsService.class
+br\com\brainweb\interview\core\features\hero\HeroService.class
+br\com\brainweb\interview\core\features\powerstats\PowerStatsRepository.class
+br\com\brainweb\interview\core\configuration\JdbcConfiguration.class
+br\com\brainweb\interview\core\features\powerstats\PowerStatsController.class
