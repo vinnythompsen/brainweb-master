@@ -6,9 +6,12 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class PowerStatsService {
-    @Autowired
-    private PowerStatsRepository repository;
-    public PowerStats save(PowerStats entity){
-        return repository.save(entity);
-    }
+	
+	
+	@Autowired
+	private PowerStatsRepository repository;
+
+	public PowerStats save(PowerStats entity) {
+		return repository.save(entity);
+	}
 }
